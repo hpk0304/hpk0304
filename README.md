@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khanh Ho</h1>
 <h3 align="center">Specializing in leveraging AI and ML</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hpk0304" alt="hpk0304" /></a> </p>
+
 - 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
 - 🌱 I’m currently learning **LLMs, MLOps**
 
 - 💬 Ask me about **LLMs, NLP**
-
-- 📫 How to reach me **hpk0304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
