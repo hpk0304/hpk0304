@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my page - I'm Khanh Ho</h1>
+<h1 align="center">Hi 👋, Welcome to my page </h1>
 <h3 align="center">Specializing in leveraging AI and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
