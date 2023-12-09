@@ -3,7 +3,6 @@
 <a role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hpk0304&theme=gitdimmed" alt="hpk0304" /></a> </p>
 
 - 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
