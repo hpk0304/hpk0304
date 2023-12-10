@@ -4,13 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
 
-- 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
+🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
-- 🌱 I’m currently learning **LLMs, MLOps**
+🌱 I’m currently learning **LLMs, MLOps**
 
-- 💬 Ask me about **LLMs, NLP**
+💬 Ask me about **LLMs, NLP**
 
-- About my important projects:
+💥 About my important projects:
+- Thesis: Applying VaR, ES and Historical Simulation to evaluate Risks in Bond Returns
+- Conduct a Text classification project to categorize topics from a community blog
+- Creating Tag Annotator system to label and categorize dataset from an app
+- Developing chatbot to generate Q&A, using LLM and Vector Database
+- Creating a Power BI report based on prompt-engineering to generate sentiment of women-clothing reviews
+- Experimenting LLMs and prototyping some applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
