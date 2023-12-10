@@ -2,7 +2,7 @@
 <h3 align="center">Specializing in leveraging AI and ML</h3>
 <a role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
 
 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
