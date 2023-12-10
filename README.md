@@ -6,11 +6,9 @@
 
 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
-🌱 I’m currently learning **LLMs, MLOps**
+🌱 My focuses now are **LLMs, MLOps**, I would love to learn and exchange ideas about **LLMs, NLP**
 
-💬 Ask me about **LLMs, NLP**
-
-💥 About my important projects:
+💥 **Some important projects:**
 - Thesis: Applying VaR, ES and Historical Simulation to evaluate Risks in Bond Returns
 - Conduct a Text classification project to categorize topics from a community blog
 - Creating Tag Annotator system to label and categorize dataset from an app
