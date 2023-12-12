@@ -9,12 +9,12 @@
 🌱 My focuses now are **LLMs, MLOps**, I would love to learn and exchange ideas about **LLMs, NLP**
 
 💥 **Some important projects:**
-- Thesis: Applying VaR, ES and Historical Simulation to evaluate Risks in Bond Returns
-- Conduct a Text classification project to categorize topics from a community blog
-- Creating Tag Annotator system to label and categorize dataset from an app
-- Developing chatbot to generate Q&A, using LLM and Vector Database
-- Creating a Power BI report based on prompt-engineering to generate sentiment of women-clothing reviews
 - Experimenting LLMs and prototyping some applications
+- Creating a Power BI report based on prompt-engineering to generate sentiment of women-clothing reviews
+- Developing chatbot to generate Q&A, using LLM and Vector Database
+- Creating Tag Annotator system to label and categorize dataset from an app
+- Conduct a Text classification project to categorize topics from a community blog
+- Thesis: Applying VaR, ES and Historical Simulation to evaluate Risks in Bond Returns
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
