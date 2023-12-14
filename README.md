@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/sklearn-1.3.2-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/> <img src="https://img.shields.io/badge/Vector_DB-5D3FE8?style=for-the-badge&logo=vector&logoColor=white" alt="vectordb"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="powerbi"/> </a> </p>
 
 <p align="left"> <a style="display: inline-block; width: 20%"> <img src="https://github-readme-stats.vercel.app/api?username=hpk0304&show_icons=true&locale=en" alt="hpk0304" style="width:40% />
-<a style="display: inline-block; width: 30%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpk0304&" alt="hpk0304" style="width: 40%" /> </a> </p>
+<a style="display: inline-block; width: 30%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpk0304&" alt="hpk0304" style="width: 50%" /> </a> </p>
 
 
 
