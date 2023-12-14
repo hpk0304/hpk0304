@@ -30,3 +30,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hpk0304&show_icons=true&locale=en" alt="hpk0304" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpk0304&" alt="hpk0304" /></p>
+<div style="display: inline-block">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hpk0304&show_icons=true&locale=en" alt="hpk0304" />
+</div>
+<div style="display: inline-block">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpk0304&" alt="hpk0304" />
+</div>
+
