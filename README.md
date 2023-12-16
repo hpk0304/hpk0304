@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my page 🌱 <a align="right"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </h1> 
+<h1 align="center">Hi 👋, Welcome to my page 🌱 <img align="right" src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </h1> 
 <h3 align="center" style="display: inline-block">Specializing in leveraging AI and ML </h3>
 
 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
