@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my page </h1>
+<h1 align="center">Hi 👋, Welcome to my page </h1> 🌱
 <h3 align="center">Specializing in leveraging AI and ML</h3>
 <a align="center" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 
