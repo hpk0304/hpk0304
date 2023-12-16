@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, Welcome to my page </h1> 🌱
-<h3 align="center">Specializing in leveraging AI and ML</h3>
+<h1 align="center">Hi 👋, Welcome to my page 🌱 </h1> 
+<h3 align="center" style="display: inline-block">Specializing in leveraging </h3> <img src="https://img.shields.io/badge/AI-ML-%23067fd0" style="display: inline-block" />
+
 <a align="center" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
