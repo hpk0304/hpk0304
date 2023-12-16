@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my page </h1>
 <h3 align="center">Specializing in leveraging AI and ML</h3>
-<a role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+<a align="center" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hpk0304&label=Profile%20views&color=0e75b6&style=flat" alt="hpk0304" /> </p>
 
