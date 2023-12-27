@@ -5,7 +5,7 @@
 
 🌱 My focuses now are **LLMs, MLOps**, I would love to learn and exchange ideas about **LLMs, NLP**
 
-💥 **About my projects:**
+💥 **A bit about my projects:**
 - Experimenting LLMs and prototyping some applications
 - Creating a Power BI report based on prompt-engineering to generate sentiment of women-clothing reviews
 - Developing chatbot to generate Q&A, using LLM and Vector Database
