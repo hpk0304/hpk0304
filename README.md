@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [LLMs](https://github.com/dibro/23w-practical-engineering-llms)
 
-🌱 My focuses now are **LLMs, MLOps**, I would love to learn and exchange ideas about **LLMs, NLP**
+🌱 My focuses now are **LLMs, MLOps** and I would love to learn and exchange ideas about **LLMs, NLP**
 
 💥 **A bit about my projects:**
 - Experimenting LLMs and prototyping some applications
